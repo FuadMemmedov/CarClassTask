@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\memme\\source\\repos\\GalleryTask\\",
+  "WorkspaceRootPath": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF7B3B49-4295-4FE0-BFC7-CB7A98C4CD5A}|Core\\Core.csproj|c:\\users\\memme\\source\\repos\\gallerytask\\core\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF7B3B49-4295-4FE0-BFC7-CB7A98C4CD5A}|Core\\Core.csproj|c:\\users\\memme\\desktop\\carclasstask\\gallerytask\\core\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF7B3B49-4295-4FE0-BFC7-CB7A98C4CD5A}|Core\\Core.csproj|solutionrelative:core\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F228077-2C08-45DC-83BC-A231017BAD98}|GalleryTask\\GalleryTask.csproj|c:\\users\\memme\\source\\repos\\gallerytask\\gallerytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F228077-2C08-45DC-83BC-A231017BAD98}|GalleryTask\\GalleryTask.csproj|c:\\users\\memme\\desktop\\carclasstask\\gallerytask\\gallerytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F228077-2C08-45DC-83BC-A231017BAD98}|GalleryTask\\GalleryTask.csproj|solutionrelative:gallerytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF7B3B49-4295-4FE0-BFC7-CB7A98C4CD5A}|Core\\Core.csproj|c:\\users\\memme\\source\\repos\\gallerytask\\core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF7B3B49-4295-4FE0-BFC7-CB7A98C4CD5A}|Core\\Core.csproj|c:\\users\\memme\\desktop\\carclasstask\\gallerytask\\core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF7B3B49-4295-4FE0-BFC7-CB7A98C4CD5A}|Core\\Core.csproj|solutionrelative:core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Gallery.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\GalleryTask\\Core\\Models\\Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\Core\\Models\\Gallery.cs",
               "RelativeDocumentMoniker": "Core\\Models\\Gallery.cs",
-              "ToolTip": "C:\\Users\\memme\\source\\repos\\GalleryTask\\Core\\Models\\Gallery.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\Core\\Models\\Gallery.cs",
               "RelativeToolTip": "Core\\Models\\Gallery.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAiwDUAAAAwAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAIwDUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T19:17:02.817Z",
               "IsPinned": true,
@@ -42,27 +42,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\GalleryTask\\Core\\Models\\Car.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\Core\\Models\\Car.cs",
               "RelativeDocumentMoniker": "Core\\Models\\Car.cs",
-              "ToolTip": "C:\\Users\\memme\\source\\repos\\GalleryTask\\Core\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\Core\\Models\\Car.cs",
               "RelativeToolTip": "Core\\Models\\Car.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAwwCQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:16:51.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T19:16:51.133Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\GalleryTask\\GalleryTask\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\GalleryTask\\Program.cs",
               "RelativeDocumentMoniker": "GalleryTask\\Program.cs",
-              "ToolTip": "C:\\Users\\memme\\source\\repos\\GalleryTask\\GalleryTask\\Program.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\GalleryTask\\Program.cs",
               "RelativeToolTip": "GalleryTask\\Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAawEEAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:16:06.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T19:16:06.612Z"
             }
           ]
         }

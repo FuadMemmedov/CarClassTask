@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GalleryTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+516483789f6c6b2c9185161c5ff725c268c18a82")]
 [assembly: System.Reflection.AssemblyProductAttribute("GalleryTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GalleryTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

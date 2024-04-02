@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\memme\\source\\repos\\GalleryTask\\GalleryTask\\GalleryTask.csproj": {}
+    "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\GalleryTask\\GalleryTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\memme\\source\\repos\\GalleryTask\\Core\\Core.csproj": {
+    "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\memme\\source\\repos\\GalleryTask\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\memme\\source\\repos\\GalleryTask\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\memme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\memme\\source\\repos\\GalleryTask\\Core\\obj\\",
+        "outputPath": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\memme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\memme\\source\\repos\\GalleryTask\\GalleryTask\\GalleryTask.csproj": {
+    "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\GalleryTask\\GalleryTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\memme\\source\\repos\\GalleryTask\\GalleryTask\\GalleryTask.csproj",
+        "projectUniqueName": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\GalleryTask\\GalleryTask.csproj",
         "projectName": "GalleryTask",
-        "projectPath": "C:\\Users\\memme\\source\\repos\\GalleryTask\\GalleryTask\\GalleryTask.csproj",
+        "projectPath": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\GalleryTask\\GalleryTask.csproj",
         "packagesPath": "C:\\Users\\memme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\memme\\source\\repos\\GalleryTask\\GalleryTask\\obj\\",
+        "outputPath": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\GalleryTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\memme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\memme\\source\\repos\\GalleryTask\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\memme\\source\\repos\\GalleryTask\\Core\\Core.csproj"
+              "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\memme\\Desktop\\CarClassTask\\GalleryTask\\Core\\Core.csproj"
               }
             }
           }
